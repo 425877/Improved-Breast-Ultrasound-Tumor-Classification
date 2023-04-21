@@ -1,2 +1,2 @@
 # Improved-Breast-Ultrasound-Tumor-Classification
-The code is being compiled, and will be made public after the paper is accepted
+The code is being collated and will be made public when the paper is accepted
